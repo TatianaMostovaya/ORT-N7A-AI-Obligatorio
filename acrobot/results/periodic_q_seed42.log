@@ -1,0 +1,47 @@
+periodic_q_seed42: ep=250, real_steps=165251, train_s=6.3, eval_steps=198.2, success=100.0%
+periodic_q_seed42: ep=500, real_steps=307241, train_s=12.0, eval_steps=391.7, success=96.7%
+periodic_q_seed42: ep=750, real_steps=428561, train_s=16.9, eval_steps=394.2, success=93.3%
+periodic_q_seed42: ep=1000, real_steps=536269, train_s=21.2, eval_steps=310.3, success=86.7%
+periodic_q_seed42: ep=1250, real_steps=629493, train_s=25.0, eval_steps=529.2, success=43.3%
+periodic_q_seed42: ep=1500, real_steps=721421, train_s=28.8, eval_steps=249.6, success=100.0%
+periodic_q_seed42: ep=1750, real_steps=797647, train_s=32.0, eval_steps=310.0, success=96.7%
+periodic_q_seed42: ep=2000, real_steps=871205, train_s=35.0, eval_steps=353.7, success=96.7%
+periodic_q_seed42: ep=2250, real_steps=940336, train_s=37.9, eval_steps=140.7, success=100.0%
+periodic_q_seed42: ep=2500, real_steps=1012594, train_s=41.0, eval_steps=239.4, success=100.0%
+periodic_q_seed42: ep=2750, real_steps=1081924, train_s=43.9, eval_steps=221.0, success=100.0%
+periodic_q_seed42: ep=3000, real_steps=1147358, train_s=46.7, eval_steps=247.7, success=93.3%
+periodic_q_seed42: ep=3250, real_steps=1218401, train_s=49.7, eval_steps=172.5, success=100.0%
+periodic_q_seed42: ep=3500, real_steps=1280315, train_s=52.3, eval_steps=229.0, success=100.0%
+periodic_q_seed42: ep=3750, real_steps=1341061, train_s=54.9, eval_steps=202.3, success=96.7%
+periodic_q_seed42: ep=4000, real_steps=1413389, train_s=58.0, eval_steps=221.7, success=96.7%
+periodic_q_seed42: ep=4250, real_steps=1481000, train_s=60.8, eval_steps=207.8, success=96.7%
+periodic_q_seed42: ep=4500, real_steps=1541367, train_s=63.4, eval_steps=167.1, success=100.0%
+periodic_q_seed42: ep=4750, real_steps=1594259, train_s=65.6, eval_steps=160.3, success=100.0%
+periodic_q_seed42: ep=5000, real_steps=1639524, train_s=67.5, eval_steps=194.9, success=100.0%
+{
+  "name": "periodic_q_seed42",
+  "algorithm": "q",
+  "planning_steps": 0,
+  "seed": 42,
+  "episodes": 5000,
+  "real_steps": 1639524,
+  "training_seconds": 67.53176484509459,
+  "evaluation_seconds_cumulative": 6.196177877995069,
+  "last_checkpoint": {
+    "algorithm": "q",
+    "planning_steps": 0,
+    "seed": 42,
+    "episode": 5000,
+    "real_steps": 1639524,
+    "training_seconds": 67.53176484509459,
+    "evaluation_seconds_cumulative": 6.196177877995069,
+    "states_visited": 738,
+    "eval_episodes": 30,
+    "eval_seed": 20000,
+    "eval_mean_return": -193.9,
+    "eval_std_return": 47.641875234525244,
+    "eval_mean_steps": 194.9,
+    "eval_std_steps": 47.641875234525244,
+    "eval_success_rate": 1.0
+  }
+}

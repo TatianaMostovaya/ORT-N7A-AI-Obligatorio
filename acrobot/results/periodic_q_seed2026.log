@@ -1,0 +1,47 @@
+periodic_q_seed2026: ep=250, real_steps=166584, train_s=6.5, eval_steps=249.8, success=100.0%
+periodic_q_seed2026: ep=500, real_steps=312134, train_s=12.4, eval_steps=509.5, success=83.3%
+periodic_q_seed2026: ep=750, real_steps=425592, train_s=17.0, eval_steps=648.3, success=30.0%
+periodic_q_seed2026: ep=1000, real_steps=527657, train_s=21.2, eval_steps=219.9, success=96.7%
+periodic_q_seed2026: ep=1250, real_steps=613884, train_s=24.8, eval_steps=359.2, success=96.7%
+periodic_q_seed2026: ep=1500, real_steps=687279, train_s=27.9, eval_steps=190.2, success=100.0%
+periodic_q_seed2026: ep=1750, real_steps=763570, train_s=31.1, eval_steps=347.6, success=100.0%
+periodic_q_seed2026: ep=2000, real_steps=835679, train_s=34.1, eval_steps=206.2, success=100.0%
+periodic_q_seed2026: ep=2250, real_steps=915945, train_s=37.5, eval_steps=223.4, success=100.0%
+periodic_q_seed2026: ep=2500, real_steps=991548, train_s=40.7, eval_steps=261.9, success=96.7%
+periodic_q_seed2026: ep=2750, real_steps=1054401, train_s=43.4, eval_steps=191.3, success=100.0%
+periodic_q_seed2026: ep=3000, real_steps=1125818, train_s=46.5, eval_steps=130.6, success=100.0%
+periodic_q_seed2026: ep=3250, real_steps=1173687, train_s=48.5, eval_steps=186.1, success=100.0%
+periodic_q_seed2026: ep=3500, real_steps=1247684, train_s=51.7, eval_steps=185.3, success=100.0%
+periodic_q_seed2026: ep=3750, real_steps=1322079, train_s=54.8, eval_steps=195.2, success=100.0%
+periodic_q_seed2026: ep=4000, real_steps=1377930, train_s=57.2, eval_steps=199.9, success=96.7%
+periodic_q_seed2026: ep=4250, real_steps=1450110, train_s=60.3, eval_steps=234.1, success=96.7%
+periodic_q_seed2026: ep=4500, real_steps=1513121, train_s=63.0, eval_steps=336.0, success=96.7%
+periodic_q_seed2026: ep=4750, real_steps=1577067, train_s=65.7, eval_steps=193.5, success=100.0%
+periodic_q_seed2026: ep=5000, real_steps=1634843, train_s=68.2, eval_steps=261.8, success=100.0%
+{
+  "name": "periodic_q_seed2026",
+  "algorithm": "q",
+  "planning_steps": 0,
+  "seed": 2026,
+  "episodes": 5000,
+  "real_steps": 1634843,
+  "training_seconds": 68.17101678896142,
+  "evaluation_seconds_cumulative": 6.533966874994803,
+  "last_checkpoint": {
+    "algorithm": "q",
+    "planning_steps": 0,
+    "seed": 2026,
+    "episode": 5000,
+    "real_steps": 1634843,
+    "training_seconds": 68.17101678896142,
+    "evaluation_seconds_cumulative": 6.533966874994803,
+    "states_visited": 754,
+    "eval_episodes": 30,
+    "eval_seed": 20000,
+    "eval_mean_return": -260.8,
+    "eval_std_return": 54.201030655679716,
+    "eval_mean_steps": 261.8,
+    "eval_std_steps": 54.201030655679716,
+    "eval_success_rate": 1.0
+  }
+}

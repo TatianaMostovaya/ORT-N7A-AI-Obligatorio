@@ -1,0 +1,23 @@
+[
+  {
+    "pruning": false,
+    "ordering": false,
+    "positions": 20,
+    "mean_nodes": 2207.95,
+    "mean_seconds": 0.15101930215896572
+  },
+  {
+    "pruning": true,
+    "ordering": false,
+    "positions": 20,
+    "mean_nodes": 965.15,
+    "mean_seconds": 0.05946609379898291
+  },
+  {
+    "pruning": true,
+    "ordering": true,
+    "positions": 20,
+    "mean_nodes": 698.85,
+    "mean_seconds": 0.04145827910979279
+  }
+]

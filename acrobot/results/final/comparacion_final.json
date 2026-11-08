@@ -1,0 +1,16 @@
+[
+  {
+    "algorithm":"Dyna-Q n=10",
+    "mean_steps":155.405,
+    "std_steps":43.1224850698,
+    "mean_return":-154.405,
+    "success_pct":100.0
+  },
+  {
+    "algorithm":"Q-Learning gamma=0.999",
+    "mean_steps":134.165,
+    "std_steps":36.5727439908,
+    "mean_return":-133.165,
+    "success_pct":100.0
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "model": "models/dyna_n10_2500.pkl",
+  "episodes": 100,
+  "seed": 10000,
+  "mean_return": -180.18,
+  "std_return": 44.390457615040724,
+  "mean_steps": 181.18,
+  "std_steps": 44.390457615040724,
+  "success_rate": 1.0
+}

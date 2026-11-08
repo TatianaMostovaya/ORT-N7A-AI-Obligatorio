@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Poetry
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+.vscode/
+
+# Resultados generados
+acrobot/results/*.csv
+acrobot/results/*.png
+acrobot/models/*.pkl
+connect_four/results/*.csv
+
+# Conservar carpetas
+!**/.gitkeep

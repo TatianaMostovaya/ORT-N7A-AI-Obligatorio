@@ -1,0 +1,11 @@
+{
+  "model": "models/final/modelo_final.pkl",
+  "algorithm": "q",
+  "episodes": 200,
+  "seed": 50000,
+  "mean_return": -133.165,
+  "std_return": 36.57274399077919,
+  "mean_steps": 134.165,
+  "std_steps": 36.57274399077919,
+  "success_rate": 1.0
+}

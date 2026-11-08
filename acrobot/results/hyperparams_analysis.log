@@ -1,0 +1,26 @@
+
+RANKING GLOBAL DE CONFIGURACIONES
+parameter  configuration  mean_steps  std_between_seeds  mean_return  mean_success  success_pct
+eps_decay     decay_0995  204.033333          74.011959  -203.043333      0.990000    99.000000
+    gamma     gamma_0999  205.163333          59.343826  -204.173333      0.990000    99.000000
+eps_decay    decay_09995  207.246667          27.253532  -206.256667      0.990000    99.000000
+ episodes episodes_10000  208.080000          12.163712  -207.093333      0.986667    98.666667
+    alpha      alpha_005  209.253333          46.343615  -208.263333      0.990000    99.000000
+ baseline           base  221.723333          35.992925  -220.726667      0.996667    99.666667
+ episodes  episodes_2500  245.653333          38.430468  -244.680000      0.973333    97.333333
+    alpha       alpha_02  286.750000          34.621122  -285.770000      0.980000    98.000000
+  eps_min     epsmin_001  300.573333         171.185582  -299.660000      0.913333    91.333333
+  eps_min      epsmin_01  341.746667         259.074323  -340.926667      0.820000    82.000000
+    gamma      gamma_095  397.163333         241.705542  -396.403333      0.760000    76.000000
+    alpha       alpha_05  452.413333         232.415298  -451.756667      0.656667    65.666667
+
+MEJOR RESULTADO INDIVIDUAL
+parameter configuration  seed  mean_return  mean_steps  std_steps  success_rate
+    gamma    gamma_0999   123      -135.81      136.81  46.314405          1.00
+eps_decay    decay_0995  2026      -145.54      146.54  45.863967          1.00
+    alpha     alpha_005  2026      -163.25      164.25  35.340301          1.00
+  eps_min     epsmin_01  2026      -166.92      167.92  46.621554          1.00
+    gamma     gamma_095    42      -168.87      169.86  67.876897          0.99
+
+Análisis completado.
+CSV, JSON y gráficos PNG guardados en results/

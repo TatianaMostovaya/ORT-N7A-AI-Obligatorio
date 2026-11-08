@@ -1,0 +1,10 @@
+{
+  "model": "models/q_nonuniform_8_5000.pkl",
+  "episodes": 100,
+  "seed": 10000,
+  "mean_return": -221.06,
+  "std_return": 42.03601630348274,
+  "mean_steps": 222.06,
+  "std_steps": 42.03601630348274,
+  "success_rate": 1.0
+}

@@ -1,0 +1,10 @@
+{
+  "model": "models/q_angles_8_seed2026.pkl",
+  "episodes": 100,
+  "seed": 10000,
+  "mean_return": -261.28,
+  "std_return": 62.85723442207682,
+  "mean_steps": 262.28,
+  "std_steps": 62.85723442207682,
+  "success_rate": 1.0
+}

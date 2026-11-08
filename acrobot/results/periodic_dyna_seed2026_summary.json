@@ -1,0 +1,27 @@
+{
+  "name": "periodic_dyna_seed2026",
+  "algorithm": "dyna",
+  "planning_steps": 10,
+  "seed": 2026,
+  "episodes": 5000,
+  "real_steps": 1804014,
+  "training_seconds": 136.60651415109896,
+  "evaluation_seconds_cumulative": 6.700900666000962,
+  "last_checkpoint": {
+    "algorithm": "dyna",
+    "planning_steps": 10,
+    "seed": 2026,
+    "episode": 5000,
+    "real_steps": 1804014,
+    "training_seconds": 136.60651415109896,
+    "evaluation_seconds_cumulative": 6.700900666000962,
+    "states_visited": 749,
+    "eval_episodes": 30,
+    "eval_seed": 20000,
+    "eval_mean_return": -183.53333333333333,
+    "eval_std_return": 38.07500160376144,
+    "eval_mean_steps": 184.53333333333333,
+    "eval_std_steps": 38.07500160376144,
+    "eval_success_rate": 1.0
+  }
+}

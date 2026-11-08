@@ -1,0 +1,15 @@
+experiment,status,variants,games,wins,draws,losses,win_rate,mean_moves,mean_decision_ms
+benchmark_poda_d4,OK,3.0,,,,,,,
+minimax_vs_random,OK,,20.0,20.0,0.0,0.0,1.0,8.0,28.724875069081982
+minimax_vs_expectimax,OK,,20.0,16.0,0.0,4.0,0.8,8.1,25.330269211193635
+minimax_vs_stratego_20,OK,,20.0,14.0,0.0,6.0,0.7,8.9,29.119023854648162
+minimax_depth_2,OK,,20.0,20.0,0.0,0.0,1.0,7.9,10.011669866473225
+minimax_depth_3,OK,,20.0,20.0,0.0,0.0,1.0,8.0,29.35069113714105
+minimax_depth_4,OK,,20.0,20.0,0.0,0.0,1.0,8.2,132.54702240139724
+heuristic_windows,OK,,20.0,20.0,0.0,0.0,1.0,8.1,9.797458675554177
+heuristic_center,OK,,20.0,20.0,0.0,0.0,1.0,9.4,3.1455098030698805
+heuristic_material,OK,,20.0,20.0,0.0,0.0,1.0,9.7,2.4546019418665392
+heuristic_capture,OK,,20.0,20.0,0.0,0.0,1.0,8.5,5.528791614421015
+heuristic_immediate,OK,,20.0,20.0,0.0,0.0,1.0,8.4,16.81047304527532
+heuristic_balanced,OK,,20.0,20.0,0.0,0.0,1.0,8.0,29.27439189450871
+heuristic_tactical,OK,,20.0,20.0,0.0,0.0,1.0,7.7,29.483844167358857

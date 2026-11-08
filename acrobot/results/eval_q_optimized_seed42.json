@@ -1,0 +1,10 @@
+{
+  "model": "models/q_optimized_seed42.pkl",
+  "episodes": 100,
+  "seed": 10000,
+  "mean_return": -345.42,
+  "std_return": 132.69332608642677,
+  "mean_steps": 346.4,
+  "std_steps": 132.63940636632887,
+  "success_rate": 0.98
+}

@@ -1,0 +1,27 @@
+{
+  "name": "test_greedy_q",
+  "algorithm": "q",
+  "planning_steps": 0,
+  "seed": 42,
+  "episodes": 20,
+  "real_steps": 13737,
+  "training_seconds": 0.5773884170048404,
+  "evaluation_seconds_cumulative": 0.5581763759983005,
+  "last_checkpoint": {
+    "algorithm": "q",
+    "planning_steps": 0,
+    "seed": 42,
+    "episode": 20,
+    "real_steps": 13737,
+    "training_seconds": 0.5773884170048404,
+    "evaluation_seconds_cumulative": 0.5581763759983005,
+    "states_visited": 215,
+    "eval_episodes": 5,
+    "eval_seed": 20000,
+    "eval_mean_return": -700.0,
+    "eval_std_return": 0.0,
+    "eval_mean_steps": 700.0,
+    "eval_std_steps": 0.0,
+    "eval_success_rate": 0.0
+  }
+}

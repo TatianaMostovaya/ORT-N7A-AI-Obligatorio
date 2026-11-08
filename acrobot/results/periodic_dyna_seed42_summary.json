@@ -1,0 +1,27 @@
+{
+  "name": "periodic_dyna_seed42",
+  "algorithm": "dyna",
+  "planning_steps": 10,
+  "seed": 42,
+  "episodes": 5000,
+  "real_steps": 1810497,
+  "training_seconds": 137.86401186501462,
+  "evaluation_seconds_cumulative": 7.320425913996587,
+  "last_checkpoint": {
+    "algorithm": "dyna",
+    "planning_steps": 10,
+    "seed": 42,
+    "episode": 5000,
+    "real_steps": 1810497,
+    "training_seconds": 137.86401186501462,
+    "evaluation_seconds_cumulative": 7.320425913996587,
+    "states_visited": 723,
+    "eval_episodes": 30,
+    "eval_seed": 20000,
+    "eval_mean_return": -214.83333333333334,
+    "eval_std_return": 47.775396447827895,
+    "eval_mean_steps": 215.83333333333334,
+    "eval_std_steps": 47.775396447827895,
+    "eval_success_rate": 1.0
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "model": "models/hp_gamma_095_seed42.pkl",
+  "episodes": 100,
+  "seed": 10000,
+  "mean_return": -168.87,
+  "std_return": 67.95581675105547,
+  "mean_steps": 169.86,
+  "std_steps": 67.87689688924452,
+  "success_rate": 0.99
+}

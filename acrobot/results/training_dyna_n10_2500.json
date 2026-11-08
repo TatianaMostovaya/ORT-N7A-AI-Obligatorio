@@ -1,0 +1,8 @@
+{
+  "algorithm": "Dyna-Q",
+  "planning_steps": 10,
+  "training_episodes": 2500,
+  "training_seed": 42,
+  "training_seconds": 83.21396091600036,
+  "last_100_mean_return": -263.95
+}

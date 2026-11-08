@@ -1,0 +1,101 @@
+
+=== hp_alpha_005_seed42 ===
+hp_alpha_005_seed42: reward últimos 50=-190.1, éxito últimos 50=100.0%, estados=748, tiempo=63.2s
+
+=== hp_alpha_005_seed123 ===
+hp_alpha_005_seed123: reward últimos 50=-175.8, éxito últimos 50=98.0%, estados=777, tiempo=62.3s
+
+=== hp_alpha_005_seed2026 ===
+hp_alpha_005_seed2026: reward últimos 50=-172.8, éxito últimos 50=100.0%, estados=770, tiempo=63.5s
+
+=== hp_alpha_02_seed42 ===
+hp_alpha_02_seed42: reward últimos 50=-305.1, éxito últimos 50=94.0%, estados=734, tiempo=77.2s
+
+=== hp_alpha_02_seed123 ===
+hp_alpha_02_seed123: reward últimos 50=-313.1, éxito últimos 50=94.0%, estados=759, tiempo=75.7s
+
+=== hp_alpha_02_seed2026 ===
+hp_alpha_02_seed2026: reward últimos 50=-348.5, éxito últimos 50=92.0%, estados=721, tiempo=73.7s
+
+=== hp_alpha_05_seed42 ===
+hp_alpha_05_seed42: reward últimos 50=-407.6, éxito últimos 50=86.0%, estados=667, tiempo=101.3s
+
+=== hp_alpha_05_seed123 ===
+hp_alpha_05_seed123: reward últimos 50=-444.7, éxito últimos 50=82.0%, estados=675, tiempo=99.2s
+
+=== hp_alpha_05_seed2026 ===
+hp_alpha_05_seed2026: reward últimos 50=-442.2, éxito últimos 50=82.0%, estados=685, tiempo=102.1s
+
+=== hp_gamma_095_seed42 ===
+hp_gamma_095_seed42: reward últimos 50=-158.4, éxito últimos 50=100.0%, estados=765, tiempo=65.7s
+
+=== hp_gamma_095_seed123 ===
+hp_gamma_095_seed123: reward últimos 50=-298.2, éxito últimos 50=98.0%, estados=776, tiempo=64.3s
+
+=== hp_gamma_095_seed2026 ===
+hp_gamma_095_seed2026: reward últimos 50=-356.2, éxito últimos 50=82.0%, estados=753, tiempo=65.0s
+
+=== hp_gamma_0999_seed42 ===
+hp_gamma_0999_seed42: reward últimos 50=-253.8, éxito últimos 50=98.0%, estados=753, tiempo=68.8s
+
+=== hp_gamma_0999_seed123 ===
+hp_gamma_0999_seed123: reward últimos 50=-146.1, éxito últimos 50=100.0%, estados=730, tiempo=67.9s
+
+=== hp_gamma_0999_seed2026 ===
+hp_gamma_0999_seed2026: reward últimos 50=-237.2, éxito últimos 50=100.0%, estados=722, tiempo=70.1s
+
+=== hp_decay_0995_seed42 ===
+hp_decay_0995_seed42: reward últimos 50=-227.7, éxito últimos 50=100.0%, estados=751, tiempo=60.7s
+
+=== hp_decay_0995_seed123 ===
+hp_decay_0995_seed123: reward últimos 50=-235.2, éxito últimos 50=100.0%, estados=771, tiempo=56.9s
+
+=== hp_decay_0995_seed2026 ===
+hp_decay_0995_seed2026: reward últimos 50=-191.7, éxito últimos 50=98.0%, estados=739, tiempo=60.4s
+
+=== hp_decay_09995_seed42 ===
+hp_decay_09995_seed42: reward últimos 50=-266.5, éxito últimos 50=100.0%, estados=718, tiempo=79.6s
+
+=== hp_decay_09995_seed123 ===
+hp_decay_09995_seed123: reward últimos 50=-225.3, éxito últimos 50=100.0%, estados=719, tiempo=79.8s
+
+=== hp_decay_09995_seed2026 ===
+hp_decay_09995_seed2026: reward últimos 50=-263.5, éxito últimos 50=94.0%, estados=744, tiempo=78.8s
+
+=== hp_epsmin_001_seed42 ===
+hp_epsmin_001_seed42: reward últimos 50=-233.3, éxito últimos 50=96.0%, estados=767, tiempo=64.5s
+
+=== hp_epsmin_001_seed123 ===
+hp_epsmin_001_seed123: reward últimos 50=-273.1, éxito últimos 50=90.0%, estados=770, tiempo=65.5s
+
+=== hp_epsmin_001_seed2026 ===
+hp_epsmin_001_seed2026: reward últimos 50=-196.7, éxito últimos 50=98.0%, estados=764, tiempo=64.7s
+
+=== hp_epsmin_01_seed42 ===
+hp_epsmin_01_seed42: reward últimos 50=-262.7, éxito últimos 50=98.0%, estados=712, tiempo=68.2s
+
+=== hp_epsmin_01_seed123 ===
+hp_epsmin_01_seed123: reward últimos 50=-208.5, éxito últimos 50=100.0%, estados=735, tiempo=69.4s
+
+=== hp_epsmin_01_seed2026 ===
+hp_epsmin_01_seed2026: reward últimos 50=-267.0, éxito últimos 50=100.0%, estados=747, tiempo=67.3s
+
+=== hp_episodes_2500_seed42 ===
+hp_episodes_2500_seed42: reward últimos 50=-235.2, éxito últimos 50=100.0%, estados=669, tiempo=40.9s
+
+=== hp_episodes_2500_seed123 ===
+hp_episodes_2500_seed123: reward últimos 50=-298.0, éxito últimos 50=98.0%, estados=692, tiempo=41.6s
+
+=== hp_episodes_2500_seed2026 ===
+hp_episodes_2500_seed2026: reward últimos 50=-207.7, éxito últimos 50=100.0%, estados=687, tiempo=40.2s
+
+=== hp_episodes_10000_seed42 ===
+hp_episodes_10000_seed42: reward últimos 50=-223.9, éxito últimos 50=100.0%, estados=827, tiempo=113.8s
+
+=== hp_episodes_10000_seed123 ===
+hp_episodes_10000_seed123: reward últimos 50=-235.1, éxito últimos 50=98.0%, estados=804, tiempo=115.4s
+
+=== hp_episodes_10000_seed2026 ===
+hp_episodes_10000_seed2026: reward últimos 50=-215.4, éxito últimos 50=100.0%, estados=814, tiempo=118.4s
+
+Experimentos completados.

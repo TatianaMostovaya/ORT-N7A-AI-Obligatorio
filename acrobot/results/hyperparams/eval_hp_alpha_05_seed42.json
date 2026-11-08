@@ -1,0 +1,10 @@
+{
+  "model": "models/hp_alpha_05_seed42.pkl",
+  "episodes": 100,
+  "seed": 10000,
+  "mean_return": -417.33,
+  "std_return": 123.96945330820553,
+  "mean_steps": 418.3,
+  "std_steps": 123.90045694961431,
+  "success_rate": 0.97
+}

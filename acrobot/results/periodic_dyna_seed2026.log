@@ -1,0 +1,47 @@
+periodic_dyna_seed2026: ep=250, real_steps=170479, train_s=12.5, eval_steps=343.1, success=93.3%
+periodic_dyna_seed2026: ep=500, real_steps=324006, train_s=23.8, eval_steps=216.7, success=100.0%
+periodic_dyna_seed2026: ep=750, real_steps=466741, train_s=34.4, eval_steps=210.3, success=100.0%
+periodic_dyna_seed2026: ep=1000, real_steps=568255, train_s=42.1, eval_steps=212.4, success=100.0%
+periodic_dyna_seed2026: ep=1250, real_steps=671174, train_s=49.8, eval_steps=412.4, success=100.0%
+periodic_dyna_seed2026: ep=1500, real_steps=761034, train_s=56.7, eval_steps=225.0, success=100.0%
+periodic_dyna_seed2026: ep=1750, real_steps=852042, train_s=63.6, eval_steps=628.1, success=50.0%
+periodic_dyna_seed2026: ep=2000, real_steps=949806, train_s=71.0, eval_steps=232.3, success=100.0%
+periodic_dyna_seed2026: ep=2250, real_steps=1031960, train_s=77.3, eval_steps=204.4, success=100.0%
+periodic_dyna_seed2026: ep=2500, real_steps=1096057, train_s=82.2, eval_steps=200.7, success=100.0%
+periodic_dyna_seed2026: ep=2750, real_steps=1160309, train_s=87.1, eval_steps=258.8, success=100.0%
+periodic_dyna_seed2026: ep=3000, real_steps=1218841, train_s=91.6, eval_steps=183.3, success=100.0%
+periodic_dyna_seed2026: ep=3250, real_steps=1297896, train_s=97.6, eval_steps=684.1, success=20.0%
+periodic_dyna_seed2026: ep=3500, real_steps=1364968, train_s=102.7, eval_steps=213.3, success=100.0%
+periodic_dyna_seed2026: ep=3750, real_steps=1435055, train_s=108.1, eval_steps=216.3, success=100.0%
+periodic_dyna_seed2026: ep=4000, real_steps=1511166, train_s=113.9, eval_steps=211.2, success=90.0%
+periodic_dyna_seed2026: ep=4250, real_steps=1578762, train_s=119.1, eval_steps=258.9, success=100.0%
+periodic_dyna_seed2026: ep=4500, real_steps=1666421, train_s=125.9, eval_steps=233.6, success=100.0%
+periodic_dyna_seed2026: ep=4750, real_steps=1738960, train_s=131.5, eval_steps=166.2, success=100.0%
+periodic_dyna_seed2026: ep=5000, real_steps=1804014, train_s=136.6, eval_steps=184.5, success=100.0%
+{
+  "name": "periodic_dyna_seed2026",
+  "algorithm": "dyna",
+  "planning_steps": 10,
+  "seed": 2026,
+  "episodes": 5000,
+  "real_steps": 1804014,
+  "training_seconds": 136.60651415109896,
+  "evaluation_seconds_cumulative": 6.700900666000962,
+  "last_checkpoint": {
+    "algorithm": "dyna",
+    "planning_steps": 10,
+    "seed": 2026,
+    "episode": 5000,
+    "real_steps": 1804014,
+    "training_seconds": 136.60651415109896,
+    "evaluation_seconds_cumulative": 6.700900666000962,
+    "states_visited": 749,
+    "eval_episodes": 30,
+    "eval_seed": 20000,
+    "eval_mean_return": -183.53333333333333,
+    "eval_std_return": 38.07500160376144,
+    "eval_mean_steps": 184.53333333333333,
+    "eval_std_steps": 38.07500160376144,
+    "eval_success_rate": 1.0
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "periodic_q_seed123",
+  "algorithm": "q",
+  "planning_steps": 0,
+  "seed": 123,
+  "episodes": 5000,
+  "real_steps": 1682153,
+  "training_seconds": 69.34531175910524,
+  "evaluation_seconds_cumulative": 6.18211249900196,
+  "last_checkpoint": {
+    "algorithm": "q",
+    "planning_steps": 0,
+    "seed": 123,
+    "episode": 5000,
+    "real_steps": 1682153,
+    "training_seconds": 69.34531175910524,
+    "evaluation_seconds_cumulative": 6.18211249900196,
+    "states_visited": 761,
+    "eval_episodes": 30,
+    "eval_seed": 20000,
+    "eval_mean_return": -199.1,
+    "eval_std_return": 41.10067538668166,
+    "eval_mean_steps": 200.1,
+    "eval_std_steps": 41.10067538668166,
+    "eval_success_rate": 1.0
+  }
+}

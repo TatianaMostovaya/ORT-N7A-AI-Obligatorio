@@ -1,0 +1,14 @@
+[
+  {
+    "configuration":"Base",
+    "mean_steps":221.7233333333,
+    "std_between_seeds":35.9929247677,
+    "mean_success":0.9966666667
+  },
+  {
+    "configuration":"Optimizada",
+    "mean_steps":309.26,
+    "std_between_seeds":40.7742357378,
+    "mean_success":0.97
+  }
+]

@@ -1,0 +1,6 @@
+turn,player,agent,column,winner_after_move
+1,1,apertura aleatoria,3,0
+2,2,apertura aleatoria,4,0
+3,1,Minimax,5,0
+4,2,Stratego,4,0
+5,1,Minimax,2,1

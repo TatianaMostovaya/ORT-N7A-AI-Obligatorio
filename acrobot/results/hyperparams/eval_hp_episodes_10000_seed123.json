@@ -1,0 +1,10 @@
+{
+  "model": "models/hp_episodes_10000_seed123.pkl",
+  "episodes": 100,
+  "seed": 10000,
+  "mean_return": -220.61,
+  "std_return": 59.40630429423286,
+  "mean_steps": 221.61,
+  "std_steps": 59.40630429423286,
+  "success_rate": 1.0
+}

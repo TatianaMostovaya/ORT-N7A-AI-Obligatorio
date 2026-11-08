@@ -1,0 +1,10 @@
+{
+  "model": "models/hp_decay_0995_seed42.pkl",
+  "episodes": 100,
+  "seed": 10000,
+  "mean_return": -286.56,
+  "std_return": 125.1603674321771,
+  "mean_steps": 287.54,
+  "std_steps": 125.09369579348404,
+  "success_rate": 0.98
+}

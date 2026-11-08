@@ -1,0 +1,23 @@
+{
+  "config": {
+    "a": "minimax",
+    "b": "random",
+    "depth": 3,
+    "heuristic": "center",
+    "games_per_side": 10,
+    "seed": 42,
+    "opening_random": 2,
+    "no_pruning": false,
+    "no_ordering": false,
+    "chance": "uniform",
+    "name": "heuristic_center"
+  },
+  "games": 20,
+  "wins": 20,
+  "draws": 0,
+  "losses": 0,
+  "win_rate": 1.0,
+  "mean_moves": 9.4,
+  "mean_decision_seconds": 0.0031455098030698805,
+  "mean_nodes_per_move": 137.78126984126985
+}

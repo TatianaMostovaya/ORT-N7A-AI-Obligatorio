@@ -1,0 +1,36 @@
+{
+  "notebook": "notebooks/Connect_four_COUNTER_revisado.ipynb",
+  "demonstration": "Minimax α-β depth=3 vs Stratego depth=4",
+  "generated_files": [
+    "results/notebook_counter/busqueda_posicion_ejemplo.csv",
+    "results/notebook_counter/comparacion_heuristicas.csv",
+    "results/notebook_counter/comparacion_poda_nodos.png",
+    "results/notebook_counter/comparacion_poda_tiempo.png",
+    "results/notebook_counter/comparacion_profundidades.csv",
+    "results/notebook_counter/heuristicas_tiempo.png",
+    "results/notebook_counter/manifest.json",
+    "results/notebook_counter/partida_demo_movimientos.csv",
+    "results/notebook_counter/partida_demo_tableros.png",
+    "results/notebook_counter/profundidad_mean_nodes.png",
+    "results/notebook_counter/profundidad_mean_time_ms.png",
+    "results/notebook_counter/resumen_experimentos.csv",
+    "results/notebook_counter/verificacion_stratego.csv"
+  ],
+  "source_result_files": [
+    "results/benchmark_poda_d4.json",
+    "results/heuristic_balanced.json",
+    "results/heuristic_capture.json",
+    "results/heuristic_center.json",
+    "results/heuristic_immediate.json",
+    "results/heuristic_material.json",
+    "results/heuristic_tactical.json",
+    "results/heuristic_windows.json",
+    "results/minimax_depth_2.json",
+    "results/minimax_depth_3.json",
+    "results/minimax_depth_4.json",
+    "results/minimax_vs_expectimax.json",
+    "results/minimax_vs_random.json",
+    "results/minimax_vs_stratego.json",
+    "results/minimax_vs_stratego_20.json"
+  ]
+}

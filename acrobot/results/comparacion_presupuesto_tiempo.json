@@ -1,0 +1,20 @@
+[
+  {
+    "algorithm":"Q-Learning 5000",
+    "training_episodes":5000,
+    "training_seconds":67.953148166,
+    "mean_return":-192.58,
+    "mean_steps":193.58,
+    "std_steps":46.5366543922,
+    "success_rate":1.0
+  },
+  {
+    "algorithm":"Dyna-Q 2500",
+    "training_episodes":2500,
+    "training_seconds":83.213960916,
+    "mean_return":-180.18,
+    "mean_steps":181.18,
+    "std_steps":44.390457615,
+    "success_rate":1.0
+  }
+]

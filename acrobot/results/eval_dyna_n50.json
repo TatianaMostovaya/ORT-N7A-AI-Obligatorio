@@ -1,0 +1,10 @@
+{
+  "model": "models/dyna_angles_8_n50.pkl",
+  "episodes": 100,
+  "seed": 10000,
+  "mean_return": -303.15,
+  "std_return": 82.47440680464321,
+  "mean_steps": 304.15,
+  "std_steps": 82.47440680464321,
+  "success_rate": 1.0
+}

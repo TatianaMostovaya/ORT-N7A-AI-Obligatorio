@@ -1,0 +1,23 @@
+{
+  "config": {
+    "a": "minimax",
+    "b": "stratego",
+    "depth": 3,
+    "heuristic": "balanced",
+    "games_per_side": 2,
+    "seed": 42,
+    "opening_random": 0,
+    "no_pruning": false,
+    "no_ordering": false,
+    "chance": "uniform",
+    "name": "minimax_vs_stratego"
+  },
+  "games": 4,
+  "wins": 4,
+  "draws": 0,
+  "losses": 0,
+  "win_rate": 1.0,
+  "mean_moves": 11.5,
+  "mean_decision_seconds": 0.037754414059236296,
+  "mean_nodes_per_move": 197.4375
+}
